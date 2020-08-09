@@ -1,1 +1,1 @@
-# python-project-from-hyperskill
+# python-project
